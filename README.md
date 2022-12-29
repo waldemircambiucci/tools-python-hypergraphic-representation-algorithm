@@ -3,6 +3,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waldemircambiucci)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldemircambiucci/)
 
-# scripts
+Author: Waldemir Cambiucci
+Update: Dec 29th, 2022
 
-A collection of useful shell scripts for Python, Qiskit, Q#, QuNetSim, and workspaces
+# PYTHON HYPERGRAPH REPRESENTATION
+
+A collection of useful scripts in Python + Qiskit to translate a quantum circuit in hypergraph representation.
