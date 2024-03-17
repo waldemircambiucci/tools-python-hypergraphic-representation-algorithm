@@ -6,7 +6,7 @@
 Author: Waldemir Cambiucci
 Update: March, 2024
 
-# TOOLS - PYTHON HYPERGRAPH REPRESENTATION
+# Tools - Hypergraphic Representation Algorithm
 
 A collection of useful scripts in Python + Qiskit to translate a quantum circuit in hypergraph representation.
 tools for hypergraphic representation translation.
