@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldemircambiucci/)
 
 Author: Waldemir Cambiucci
-Update: Dec 29th, 2022
-
+Update: March, 2024
 # PYTHON HYPERGRAPH REPRESENTATION
 
 A collection of useful scripts in Python + Qiskit to translate a quantum circuit in hypergraph representation.
+tools for hypergraphic representation translation.
